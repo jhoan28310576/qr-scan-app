@@ -83,6 +83,7 @@ COMPONENTES CLAVE:
    │ Texto         │ Mostrar contenido               │
    └───────────────┴─────────────────────────────────┘
 
+5. Diagrama de Secuencia Detallado:
 1. Usuario → Frontend: Sube imagen QR/usa cámara
 2. Frontend → Backend: POST /scan (imagen)
 3. Backend → QR Service: Decodificar imagen
