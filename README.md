@@ -1,6 +1,7 @@
 # QR Scan Suite
 
-![Uploading diagrama app_scan.png…]()
+
+![diagrama app_scan](https://github.com/user-attachments/assets/f81d14e8-2687-4f75-aab2-a7ce36dc0194)
 
 
 **Aplicación multiplataforma para escaneo y generación de códigos QR con soporte avanzado para múltiples formatos**
