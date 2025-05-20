@@ -89,10 +89,8 @@ COMPONENTES CLAVE:
 3. Backend → QR Service: Decodificar imagen
 4. QR Service → Backend: Contenido crudo
 5. Backend → QR Processor: Determinar tipo
-6. QR Processor → Backend: Tipo y datos estructurados
-7. Backend → Storage: (Opcional) Guardar registro
-8. Backend → Frontend: Respuesta con tipo y acciones
-9. Frontend → Usuario: Mostrar resultado/interacciones
+6. Backend → Frontend: Respuesta con tipo y acciones
+7. Frontend → Usuario: Mostrar resultado/interacciones
 
 run app
 go run cmd/webserver/main.go
