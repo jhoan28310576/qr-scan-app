@@ -93,3 +93,6 @@ COMPONENTES CLAVE:
 7. Backend → Storage: (Opcional) Guardar registro
 8. Backend → Frontend: Respuesta con tipo y acciones
 9. Frontend → Usuario: Mostrar resultado/interacciones
+
+run app
+go run cmd/webserver/main.go
