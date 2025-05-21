@@ -57,10 +57,7 @@ COMPONENTES CLAVE:
 
 2. Backend (Go):
    - cmd/webserver/main.go: Punto de entrada
-   - internal/handlers: Manejo de requests HTTP
-   - internal/qr: Lógica de generación y escaneo QR
-   - internal/models: Estructuras de datos
-   - internal/storage: Persistencia (archivos, DB)
+   
 
 3. Flujo de Escaneo:
    a. Captura de QR (cámara o archivo)
