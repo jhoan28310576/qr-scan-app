@@ -20,7 +20,7 @@
 
 - **Multiplataforma**:
   - Web App (Go backend)
-  - Desktop (via Nativefier)
+  - Desktop (via Nativefier) https://github.com/jhoan28310576/QR-Esc-ner-App-win32-x64
   - Android APK (via Viewvie)
 
 - **Funcionalidades adicionales**:
