@@ -92,6 +92,7 @@ COMPONENTES CLAVE:
 run app
 go run cmd/webserver/main.go
 
+*** version pc ***
 
 https://github.com/user-attachments/assets/136951cc-47a5-4c76-b6be-1b65fff7422c
 
