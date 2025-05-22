@@ -91,3 +91,12 @@ COMPONENTES CLAVE:
 
 run app
 go run cmd/webserver/main.go
+
+
+https://github.com/user-attachments/assets/136951cc-47a5-4c76-b6be-1b65fff7422c
+
+https://github.com/user-attachments/assets/46e87648-34b3-4c8b-83ed-934fe3fea01e
+
+https://github.com/user-attachments/assets/b9f04077-2874-4307-8dbf-1a16030feed6
+
+
